@@ -1,0 +1,54 @@
+
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "App that displays random famous quotes every 5 second and/or each time a button is clicked",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://karengineering.github.io/1_a_random_quote_generator/",
+            "github_link": "https://github.com/karengineering/1_a_random_quote_generator",
+            "image_urls": ["/static/images/proj1_1.png", "/static/images/proj1_2.png"]
+        },
+
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Pagination to a webpage with a flexible amount of student data",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://karengineering.github.io/2_datapagination_and_filtering/",
+            "github_link": "https://github.com/karengineering/2_datapagination_and_filtering",
+            "image_urls": ["/static/images/proj2_1.png", "/static/images/proj2_2.png"]
+        },
+
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhance an interactive registration form for a fictional Full Stack conference",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://karengineering.github.io/3_form_validation/",
+            "github_link": "https://github.com/karengineering/3_form_validation",
+            "image_urls": ["/static/images/proj3_1.png", "/static/images/proj3_2.png"]
+        },
+
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "browser-based, word guessing game: 'Phrase Hunter'",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://karengineering.github.io/4_oop_game_show_app/",
+            "github_link": "https://github.com/karengineering/4_oop_game_show_app",
+            "image_urls": ["/static/images/proj4_1.png", "/static/images/proj4_2.png"]
+        },
+
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Employee directory that grabs data from Random User Generator API",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://karengineering.github.io/5_public_api_request2/",
+            "github_link": "https://github.com/karengineering/5_public_api_request2",
+            "image_urls": ["/static/images/proj5_1.png", "/static/images/proj5_2.png"]
+        }
+    ]
+}
